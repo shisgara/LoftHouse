@@ -346,10 +346,10 @@ a:hover {
   background-position: center;
 }
 .info--map::before {
-  background-image: url("./../../img/header/map.svg");
+  background-image: url("./../img/header/map.svg");
 }
 .info--phone::before {
-  background-image: url("./../../img/header/phone.svg");
+  background-image: url("./../img/header/phone.svg");
 }
 .info:not(:last-child) {
   justify-self: right;
